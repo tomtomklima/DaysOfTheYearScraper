@@ -1,11 +1,11 @@
 Want to have cool list of occasions in given day or month? You hit the right package!
  
- ##Installation
+ ## Installation
  ```
  composer`require tomtomklima/daysoftheyearscraper
  ```
  
- ##Usage
+ ## Usage
  
  ```php
  require_once __DIR__ .'/vendor/autoload.php';
