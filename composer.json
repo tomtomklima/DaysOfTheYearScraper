@@ -1,0 +1,26 @@
+{
+  "name": "tomtomklima/DaysOfTheYearScraper",
+  "description": "Want to include cool day? Here's you tool!",
+  "keywords": [
+    "Days of the Year",
+    "Scraper"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tom Klíma",
+      "email": "tomtom.klima@centrum.cz",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "ezyang/htmlpurifier": "^4.8",
+    "sunra/php-simple-html-dom-parser": "^1.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "tomtomklima\\DaysOfTheYearScraper\\": "src/"
+    }
+  }
+}
